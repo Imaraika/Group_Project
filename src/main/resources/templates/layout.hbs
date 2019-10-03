@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html xmlns:width="http://www.w3.org/1999/xhtml">
+<head>
+    <title>{{#block "title"}}User Information{{/block}}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+    <link href="https://fonts.googleapis.com/css?family=Eczar&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Mansalva&display=swap" rel="stylesheet">
+
+    <link rel='stylesheet' href="/styles.css">
+    <style>
+        body{
+        font-family: 'Mansalva',cursive;
+        background : url('/images/original.png');
+         background-repeat:no-repeat;
+           background-attachment:fixed;
+           background-size:cover;
+           color:white;
+
+}
+        }
+<!--        .container {-->
+<!--        position: relative;-->
+<!--        max-width: 800px; /* Maximum width */-->
+<!--        margin: 0 auto;-->
+<!--        }-->
+        .home{
+          margin:0 auto;
+           width:50%;
+           background-color:rgba(255,255,255,0.8);
+
+           padding:3%;
+           margin-top:15%;
+           color:black;
+        }
+        .home>h1{
+           font-size:80px;
+        }
+        .home>div>a{
+           font-size:25px;
+           margin-top:10px;
+           margin-left:290px;
+        }
+<!--        .container .content {-->
+<!--        position: absolute; /* Position the background text */-->
+<!--         bottom: 0; /* At the bottom. Use top:0 to append it to the top */-->
+<!--         background: rgb(0, 0, 0); /* Fallback color */-->
+<!--        background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */-->
+<!--        color: #f1f1f1; /* Grey text */-->
+<!--      width: 100%; /* Full width */-->
+<!--        padding: 20px; /* Some padding */-->
+}
+    </style>
+</head>
+<body>
+
+<ul class="nav nav-tabs">
+    <li role="presentation" class="active"><a href="#">HOME</a></li>
+    <li role="presentation"><a href="/about">About Us</a></li>
+    <li role="presentation"><a href="/contact">Contact Us</a></li>
+</ul>
+<div class="container">
+<!--    <img src="http://4k.com/wp-content/uploads/2014/06/Netflx-4k-shows-movies.jpg" >-->
+
+    </div>
+
+<div class="col-md-12">
+    {{#block "content"}}
+
+    {{/block}}
+
+</div>
+
+
+</div>
+<!--end main template-->
+
+{{#block "footer"}}
+
+    </body>
+    </html>
+{{/block}}

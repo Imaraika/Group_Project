@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d751928-a0c0-4bb8-8503-352e95b97f89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CaesarCipher-Java-Project" beforeDir="false" afterPath="$PROJECT_DIR$/../CaesarCipher-Java-Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hero-Squard" beforeDir="false" afterPath="$PROJECT_DIR$/../Hero-Squard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeroSquard/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jadle/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jadle/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyRectangles/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyRectangles/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsPortal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/welcome.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/welcome.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/UserForm.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/UserForm.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/welcome.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/welcome.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organisational-Api" beforeDir="false" afterPath="$PROJECT_DIR$/../Organisational-Api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organisational-news-portal" beforeDir="false" afterPath="$PROJECT_DIR$/../Organisational-news-portal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrganizationIp" beforeDir="false" afterPath="$PROJECT_DIR$/../OrganizationIp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/dao/NewsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/dao/NewsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/dao/Sql2oNewsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/dao/Sql2oNewsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/dao/Sql2oUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/dao/Sql2oUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/model/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/model/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/resources/templates/employees-form.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/resources/templates/employees-form.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/resources/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/resources/templates/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/resources/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/../Organizational_News_Portal_Java_Project/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rectangle/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Rectangle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rectangle/src/main/java/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rectangle/src/main/java/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rectangle/src/main/resources/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/../Rectangle/src/main/resources/templates/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TaskPro" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskPro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/resources/templates/animal.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/resources/templates/animal.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/resources/templates/endangered-animal.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/resources/templates/endangered-animal.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/resources/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/resources/templates/index.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/resources/templates/layout.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../Wildlife_Track_Java_Project/src/main/resources/templates/layout.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ip2java" beforeDir="false" afterPath="$PROJECT_DIR$/../ip2java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-wildlife-tracker" beforeDir="false" afterPath="$PROJECT_DIR$/../java-wildlife-tracker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keepforme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../keepforme/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-blog/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../my-blog/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-blog/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../my-blog/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual_pets" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual_pets" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RbZzRsdx3G1q4RfvX5GLArkTb3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-todo" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="OnlineMovie.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d751928-a0c0-4bb8-8503-352e95b97f89" name="Default Changelist" comment="" />
+      <created>1569938017843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569938017843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OnlineMovie$App.ic" NAME="App Coverage Results" MODIFIED="1570010415487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
